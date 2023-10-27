@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TFood_App_Admin/static/css/main.907592fd.css",
+    "main.js": "/TFood_App_Admin/static/js/main.0ca03392.js",
+    "index.html": "/TFood_App_Admin/index.html",
+    "main.907592fd.css.map": "/TFood_App_Admin/static/css/main.907592fd.css.map",
+    "main.0ca03392.js.map": "/TFood_App_Admin/static/js/main.0ca03392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.907592fd.css",
+    "static/js/main.0ca03392.js"
+  ]
+}
